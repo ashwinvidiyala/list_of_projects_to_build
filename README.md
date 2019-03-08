@@ -12,4 +12,4 @@ Github Repo
 * - [ ] Create a [VPN
     Server](https://www.cloudpro.co.uk/it-infrastructure/virtualization/7503/how-to-turn-a-raspberry-pi-into-a-vpn-server)
 with a Raspberry Pi (didn't even know this was possible).
-* - [ ] Host your personal website on our Raspberry Pi.
+* - [ ] Host your personal website on our Raspberry Pi (create a web server).
